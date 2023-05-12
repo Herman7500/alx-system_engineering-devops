@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd ogu+x ./
+chomd -R a+x .
